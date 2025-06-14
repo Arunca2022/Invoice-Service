@@ -10,4 +10,9 @@ class InvoiceServiceApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
+	void contextLoads() {
+	}
+	
+
 }
